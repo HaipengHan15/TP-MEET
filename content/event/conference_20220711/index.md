@@ -1,7 +1,7 @@
 ---
 title: 2022 Conference on Mechanism and Institution Design
 
-event: Conference
+event: 2022 Conference on Mechanism and Institution Design
 event_url: http://www.mechanism-design.org/news.php
 
 location: Department of Economics of National University of Singapore
