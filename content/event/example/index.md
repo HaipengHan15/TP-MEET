@@ -1,16 +1,16 @@
 ---
 title: 2022 Conference on Mechanism and Institution Design
 
-event: Wowchemy Conference
+event: 2022 Conference on Mechanism and Institution Design
 event_url: http://www.mechanism-design.org/news.php
 
-location: Wowchemy HQ
+location: Department of Economics
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 
+  city: National University of Singapore
+  region: 
+  postcode: ''
+  country: Singapore
 
 summary: An example event.
 abstract: "The 2022 conference will be organized by Jingfeng Lu, at the Department of Economics of National University of Singapore, and will take place between 11--15th July, 2022. Here is a video of Jingfeng's announcement during our 2020 conference. The keynote speakers will be:
