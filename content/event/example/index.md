@@ -8,7 +8,7 @@ location: Department of Economics of National University of Singapore
 address:
   street: 
   city: 
-  region: 
+  region: Singapore
   postcode: 
   country: Singapore
 
