@@ -1,5 +1,5 @@
 ---
-title: Resource
+title: Activity
 view: 2
 
 header:

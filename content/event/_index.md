@@ -1,5 +1,6 @@
 ---
-title: Recent & Upcoming Events
+title: Resource 
+#Recent & Upcoming Events
 
 # View.
 #   1 = List
