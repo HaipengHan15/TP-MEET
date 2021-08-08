@@ -12,7 +12,7 @@ address:
   postcode: 
   country: Singapore
 
-summary: An example event.
+summary: Conference
 abstract: "The 2022 conference will be organized by Jingfeng Lu, at the Department of Economics of National University of Singapore, and will take place between 11--15th July, 2022. Here is a video of Jingfeng's announcement during our 2020 conference. The keynote speakers will be:
 
 Fuhito Kojima, Tokyo University;
