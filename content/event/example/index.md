@@ -1,8 +1,8 @@
 ---
-title: Example Event
+title: 2022 Conference on Mechanism and Institution Design
 
 event: Wowchemy Conference
-event_url: https://example.org
+event_url: http://www.mechanism-design.org/news.php
 
 location: Wowchemy HQ
 address:
@@ -13,13 +13,17 @@ address:
   country: United States
 
 summary: An example event.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "The 2022 conference will be organized by Jingfeng Lu, at the Department of Economics of National University of Singapore, and will take place between 11--15th July, 2022. Here is a video of Jingfeng's announcement during our 2020 conference. The keynote speakers will be:
+Fuhito Kojima, Tokyo University
+Daniel Kovenock, Chapman University
+Alessandro Pavan, Northwestern University
+Rakesh Vohra, University of Pennsylvania"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
+#date: "2030-06-01T13:00:00Z"
+#date_end: "2030-06-01T15:00:00Z"
+#all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
