@@ -62,6 +62,7 @@ slides:
 projects:
 ---
 
+<!--
 Slides can be added in a few ways:
 
 - **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
@@ -69,3 +70,4 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
 Further event details, including page elements such as image galleries, can be added to the body of this page.
+-->
