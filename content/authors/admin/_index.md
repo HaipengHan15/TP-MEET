@@ -69,9 +69,12 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/CV_Jie Zheng_full.pdf
-- icon: file-user
+- icon: file
   icon_pack: fas
   link: files/CV_Jie_Zheng_short.pdf
+- icon: file
+  icon_pack: far
+  link: files/CV_Jie_Zheng_chs.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
