@@ -68,7 +68,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/CV_Jie Zheng_full.pdf
+  link: files/CV_Jie_Zheng_full.pdf
 - icon: file
   icon_pack: fas
   link: files/CV_Jie_Zheng_short.pdf
