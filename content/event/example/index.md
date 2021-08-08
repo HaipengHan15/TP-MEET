@@ -9,7 +9,7 @@ address:
   street: 
   city: National University of Singapore
   region: 
-  postcode: ''
+  postcode: 
   country: Singapore
 
 summary: An example event.
