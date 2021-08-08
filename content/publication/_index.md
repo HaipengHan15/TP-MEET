@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Selected Research
 view: 4
 
 header:
