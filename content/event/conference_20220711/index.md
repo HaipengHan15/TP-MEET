@@ -17,8 +17,7 @@ summary: Conference
 abstract: >-
   The 2022 conference will be organized by Jingfeng Lu, at the Department of
   Economics of National University of Singapore, and will take place between
-  11--15th July, 2022. Here is a video of Jingfeng's announcement during our
-  2020 conference. The keynote speakers will be:
+  11--15th July, 2022. The keynote speakers will be:
 
 
   Fuhito Kojima, Tokyo University;
@@ -34,7 +33,7 @@ abstract: >-
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-07-11T13:00:00Z"
+date: "2022-07-11"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
