@@ -1,5 +1,5 @@
 ---
-title: Selected Researc
+title: Selected Research
 view: 4
 
 content:
