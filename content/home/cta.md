@@ -37,4 +37,4 @@ item:
     overlay_filter: 0.5
 ---
 
-{{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+{{% cta cta_link="./people/" cta_text="Meet the tea →" %}}
