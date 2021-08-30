@@ -6,7 +6,7 @@ weight: 10
 title: TP-MEET
 hero_media: welcome.jpg
 design:
-  columns: "1"
+  columns: "2"
   image_size: cover
   css_style: null
   css_class: null
