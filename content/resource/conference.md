@@ -9,7 +9,7 @@ weight: 20
 active: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: 
+title: Conference
 subtitle:
 # View.
 #   1 = List
@@ -22,4 +22,4 @@ design:
 
 ---
 
-{{% cta cta_link="./conference/" cta_text="Conference →" %}}
+{{% cta cta_link="https://tp-meet.netlify.app/conference/" cta_text="Conference →" %}}

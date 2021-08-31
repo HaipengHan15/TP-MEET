@@ -37,9 +37,3 @@ table th:nth-of-type(3) {
     width: 25%;
 }
 </style>
-
-
-
-{{% cta cta_link="./graduation/" cta_text="Graduation Project →" %}}
-
-{{% cta cta_link="./ra/" cta_text="Research Assistant →" %}}

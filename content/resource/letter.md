@@ -23,4 +23,4 @@ header:
   image: ""
 ---
 
-{{% cta cta_link="./letter/" cta_text="Recommendation Letter →" %}}
+{{% cta cta_link="https://tp-meet.netlify.app/letter/" cta_text="Recommendation Letter →" %}}

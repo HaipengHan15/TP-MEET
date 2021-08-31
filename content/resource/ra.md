@@ -24,17 +24,4 @@ header:
   image: ""
 ---
 
-<style>
-table {
-margin: auto;
-}
-table th:first-of-type {
-    width: 50%;
-}
-table th:nth-of-type(2) {
-    width: 25%;
-}
-table th:nth-of-type(3) {
-    width: 25%;
-}
-</style>
+{{% cta cta_link="https://tp-meet.netlify.app/ra/" cta_text="Research Assistant →" %}}
