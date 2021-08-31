@@ -1,12 +1,18 @@
 ---
-title: Resource 
-#Recent & Upcoming Events
+widget: blank
+headless: true
 
+# ... Put Your Section Options Here (title etc.) ...
+title: Resource 
+subtitle:
 # View.
 #   1 = List
 #   2 = Compact
 #   3 = Card
 view: 2
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
 
 # Optional header image (relative to `static/media/` folder).
 header:
