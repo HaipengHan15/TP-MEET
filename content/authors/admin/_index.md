@@ -85,7 +85,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Supervisor
 ---
 
 Jie Zheng is Associate Professor in the Department of Economics and Executive Associate Director of the Tsinghua Economic Science and Policy Experimental Laboratory (ESPEL), School of Economics and Management, Tsinghua University. He is an Associate Editor for Journal of Economic Behavior and Organization and an Associate Editor for Research in Economics. He also serves as a Board Member in Society for the Advancement of Behavioral Economics (SABE), a Founding Scientific Committee Member in China Microeconomic Theory Forum, an Executive Board Member in China Information Economics Society, an Executive Board Member in American Committee on Asian Economic Studies, and a Founding Scientific Committee Member in Behavioral and Experimental Economics Forum (China BEEF).
