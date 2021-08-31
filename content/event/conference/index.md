@@ -23,7 +23,7 @@ date_end:
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -73,5 +73,5 @@ margin: auto;
 
 | Conference | Date | Submission Deadline |
 | :----:| :----: | :----: |
-| <div style="width: 300pt">[2022 Conference on Mechanism and Institution Design](http://www.mechanism-design.org/news.php) | Jul 11, 2022 - Jul 15, 2022 |  |
+| <div style="width: 200pt">[2022 Conference on Mechanism and Institution Design](http://www.mechanism-design.org/news.php) | Jul 11, 2022 - Jul 15, 2022 |  |
 |  |  |  |
