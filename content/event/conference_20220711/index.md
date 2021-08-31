@@ -4,7 +4,7 @@ title: 2022 Conference on Mechanism and Institution Design
 event: 2022 Conference on Mechanism and Institution Design
 event_url: http://www.mechanism-design.org/news.php
 
-location: Department of Economics of National University of Singapore
+location: 
 address:
   street: 
   city: 
@@ -19,7 +19,7 @@ abstract: >-
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2022-07-11
-#date_end: "2030-06-01T15:00:00Z"
+date_end: 2022-07-15
 all_day: true
 
 # Schedule page publish date (NOT talk date).
