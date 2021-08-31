@@ -14,7 +14,13 @@ header:
   image: ""
 ---
 
+<style>
+table {
+margin: auto;
+}
+</style>
+
 | Conference | Date | Submission Deadline |
 | :----:| :----: | :----: |
-| 2022 Conference on Mechanism and Institution Design | Jul 11, 2022 — Jul 15, 2022 |  |
+| <div style="width: 150pt">[2022 Conference on Mechanism and Institution Design](http://www.mechanism-design.org/news.php) | Jul 11, 2022 — Jul 15, 2022 |  |
 |  |  |  |
