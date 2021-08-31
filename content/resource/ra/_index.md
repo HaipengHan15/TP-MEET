@@ -1,7 +1,7 @@
 ---
 widget: blank
 # This file represents a page section.
-headless: false
+headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Research Assistant
