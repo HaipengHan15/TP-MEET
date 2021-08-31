@@ -1,12 +1,13 @@
 ---
 widget: blank
-headless: true
+# This file represents a page section.
+headless: false
 
 # Order that this section appears on the page.
-weight: 10
+weight: 50
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Resource 
+title: Research Assistant
 subtitle:
 # View.
 #   1 = List
@@ -37,11 +38,3 @@ table th:nth-of-type(3) {
     width: 25%;
 }
 </style>
-
-{{% cta cta_link="./conference/" cta_text="Conference →" %}}
-
-{{% cta cta_link="./letter/" cta_text="Recommendation Letter →" %}}
-
-{{% cta cta_link="./graduation/" cta_text="Graduation Project →" %}}
-
-{{% cta cta_link="./ra/" cta_text="Research Assistant →" %}}
