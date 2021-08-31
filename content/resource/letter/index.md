@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Resource 
+title: Recommendation Letter 
 subtitle:
 # View.
 #   1 = List
@@ -34,9 +34,3 @@ table th:nth-of-type(3) {
     width: 25%;
 }
 </style>
-
-{{% cta cta_link="./conference/" cta_text="Conference →" %}}
-
-{{% cta cta_link="./letter/" cta_text="Recommendation Letter →" %}}
-
-{{% cta cta_link="./graduation/" cta_text="Graduation Project →" %}}

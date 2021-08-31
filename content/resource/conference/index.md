@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Resource 
+title: Conference 
 subtitle:
 # View.
 #   1 = List
@@ -35,8 +35,7 @@ table th:nth-of-type(3) {
 }
 </style>
 
-{{% cta cta_link="./conference/" cta_text="Conference →" %}}
-
-{{% cta cta_link="./letter/" cta_text="Recommendation Letter →" %}}
-
-{{% cta cta_link="./graduation/" cta_text="Graduation Project →" %}}
+| Conference | Date | Submission Deadline |
+| :----:| :----: | :----: |
+| <div style="width: 300pt">[2022 Conference on Mechanism and Institution Design](http://www.mechanism-design.org/news.php) | Jul 11, 2022 - Jul 15, 2022 |  |
+|  |  |  |
