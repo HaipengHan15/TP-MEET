@@ -10,9 +10,9 @@ address:
   city: 
   region: 
   postcode: 
-  country: Singapore
+  country:
 
-summary: Conference
+summary: 
 
 abstract: >-
 
