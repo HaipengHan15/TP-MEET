@@ -42,3 +42,4 @@ table th:nth-of-type(3) {
 
 {{% cta cta_link="./people/" cta_text="Test →" %}}
 
+{{% cta cta_link="./people/" cta_text="Test →" %}}
