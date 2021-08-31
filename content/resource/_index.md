@@ -40,6 +40,6 @@ table th:nth-of-type(3) {
 | <div style="width: 300pt">[2022 Conference on Mechanism and Institution Design](http://www.mechanism-design.org/news.php) | Jul 11, 2022 - Jul 15, 2022 |  |
 |  |  |  |
 
-{{% cta cta_link="./people/" cta_text="Test →" %}}
+{{% cta cta_link="./resource/" cta_text="Test →" %}}
 
-{{% cta cta_link="./people/" cta_text="Test →" %}}
+{{% cta cta_link="./resource/" cta_text="Test →" %}}
