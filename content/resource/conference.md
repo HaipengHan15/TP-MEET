@@ -6,7 +6,7 @@ headless: true
 active: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: [Conference](https://tp-meet.netlify.app/resource/) 
+title: Conference
 subtitle:
 # View.
 #   1 = List
